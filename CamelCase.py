@@ -1,5 +1,5 @@
 print('Enter a sentence:')
-UserSentence = input("Enter Sentence")
+UserSentence = input()
 UserSentence = str(UserSentence)
 
 UserSentence = UserSentence.title()
